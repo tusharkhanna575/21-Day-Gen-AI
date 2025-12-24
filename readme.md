@@ -1,9 +1,11 @@
+# 21-Day Gen AI Project Challenge
+
 |Day|Task Name|Submission Link|
 |:-:|:-:|:-:|
 |1|EDA|[Titanic Dataset](/Day%201/)|
 |2|EDA|[Netflix Dataset](/Day%202/)|
-|3|ML|[House Price Prediction](/Day%203/)|
-|4||[](/Day%204/)|
+|3|ML - Regression|[House Price Prediction](/Day%203/)|
+|4|ML - Classification|[](/Day%204/)|
 |5||[](/Day%205/)|
 |6||[](/Day%206/)|
 |7||[](/Day%207/)|
